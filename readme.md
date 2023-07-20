@@ -3,6 +3,10 @@ readme.md
 ---
 ###Introduction
 Here is my demonstration of the program.
+<p align="center">
+  <img src="demo/demonstration.gif" width=800><br/>
+  <i>Demonstration</i>
+</p>
 
 My program is designed to introduce computer vision beginners to fundamental concepts like generating images, working with color channels, and detecting colors.
 
